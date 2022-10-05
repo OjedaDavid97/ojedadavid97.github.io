@@ -1,0 +1,25 @@
+.profile{
+  height: 500px;
+}
+
+body{
+  background: #141E30;
+  /* Chrome 10-25, Safari 5.1-6 */
+  /* background: -webkit-linear-gradient(-45deg, #35577D, #141E30);
+  /* background: linear-gradient(-45deg, #35577D, #141E30); */
+  margin: 0;
+  padding: 20px;
+  font-family: verdana;
+}
+
+h1 {
+	color:aquamarine;
+}
+
+.description {
+	color:white;
+}
+
+.borrowed {
+  color: azure;
+}
